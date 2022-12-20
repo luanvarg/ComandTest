@@ -1,8 +1,14 @@
 <html>
 	<body>
+	<tittle>KRUG</tittle>
+	<tittle>CAMBIOS REALIZADOS EN EL REPOSITORIO REMOTO QUE NO ESTAN AUN EN EL REPOSITORIO LOCAL</tittle>
 	<tittle>CAMBIOS POR PARTE DE OTRO DESARROLLADOR</tittle>
 		<div>
 			<h3>PRUEBA COMANDOS GIT</h3>
+		</div>
+		<div>
+			<h3>PRUEBA DE MELD COMO HERRAMIENTA DE DIFERENCIAS Y DE CONLICTOS CON MERGE</h3>
+			<h3>TEST PRUEBA MELD</h3>
 		</div>
 	</body>
 </html>
